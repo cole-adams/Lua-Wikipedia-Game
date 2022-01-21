@@ -1,0 +1,2265 @@
+account
+achiever
+acoustics
+act
+action
+activity
+actor
+addition
+adjustment
+advertisement
+advice
+aftermath
+afternoon
+afterthought
+agreement
+air
+airplane
+airport
+alarm
+amount
+amusement
+anger
+angle
+animal 
+answer
+ant
+ants 
+apparatus
+apparel
+apple
+apples 
+appliance
+approval
+arch
+argument
+arithmetic
+arm
+army
+art
+attack
+attempt
+attention
+attraction
+aunt
+authority
+babies 
+baby 
+back
+badge
+bag
+bait
+balance
+ball
+balloon
+balls 
+banana
+band
+base
+baseball
+basin
+basket
+basketball
+bat
+bath
+battle
+bead
+beam
+bean
+bear
+bears 
+beast
+bed
+bedroom
+beds 
+bee
+beef
+beetle
+beggar
+beginner
+behavior
+belief
+believe
+bell
+bells 
+berry
+bike
+bikes 
+bird
+birds 
+birth
+birthday
+bit
+bite
+blade
+blood
+blow
+board
+boat
+boats 
+body
+bomb
+bone
+book
+books 
+boot
+border
+bottle
+boundary
+box
+boy
+boys 
+brain
+brake
+branch
+brass
+bread
+breakfast
+breath
+brick
+bridge
+brother
+brothers 
+brush
+bubble
+bucket
+building
+bulb
+bun
+burn
+burst
+bushes
+business
+butter
+button
+cabbage
+cable
+cactus
+cake
+cakes 
+calculator
+calendar
+camera
+camp
+can
+cannon
+canvas
+cap
+caption
+car 
+card
+care
+carpenter
+carriage
+cars 
+cart
+cast
+cat
+cats 
+cattle
+cause
+cave
+celery
+cellar
+cemetery
+cent
+chain
+chair 
+chairs 
+chalk
+chance
+change
+channel
+cheese
+cherries
+cherry
+chess
+chicken 
+chickens 
+children
+chin
+church
+circle
+clam
+class
+clock
+clocks 
+cloth
+cloud
+clouds 
+clover
+club
+coach
+coal
+coast
+coat
+cobweb
+coil
+collar
+color
+comb
+comfort
+committee
+company
+comparison
+competition
+condition
+connection
+control
+cook
+copper
+copy
+cord
+cork
+corn 
+cough
+country
+cover
+cow
+cows 
+crack
+cracker
+crate
+crayon
+cream
+creator
+creature
+credit
+crib
+crime
+crook
+crow
+crowd
+crown
+crush
+cry
+cub
+cup
+current
+curtain
+curve
+cushion
+dad
+daughter
+day
+death
+debt
+decision
+deer
+degree
+design
+desire
+desk
+destruction
+detail
+development
+digestion
+dime
+dinner
+dinosaurs 
+direction
+dirt
+discovery
+discussion
+disease
+disgust
+distance
+distribution
+division
+dock
+doctor
+dog
+dogs 
+doll
+dolls 
+donkey
+door
+downtown
+drain
+drawer
+dress
+drink
+driving
+drop
+drug
+drum
+duck 
+ducks 
+dust
+ear
+earth
+earthquake
+edge
+education
+effect
+egg
+eggnog
+eggs 
+elbow
+end
+engine
+error
+event
+example
+exchange
+existence
+expansion
+experience
+expert
+eye
+eyes
+face
+fact
+fairies 
+fall
+family
+fan
+fang 
+farm
+farmer 
+father
+father
+faucet
+fear
+feast
+feather
+feeling
+feet
+fiction
+field
+fifth
+fight
+finger
+finger
+fire 
+fireman
+fish
+flag
+flame
+flavor
+flesh
+flight
+flock
+floor
+flower
+flowers 
+fly
+fog
+fold
+food
+foot
+force
+fork
+form
+fowl
+frame
+friction
+friend
+friends 
+frog
+frogs 
+front
+fruit
+fuel
+furniture
+alley
+game
+garden
+gate
+geese
+ghost
+giants 
+giraffe
+girl
+girls 
+glass
+glove
+glue
+goat
+gold
+goldfish
+good-bye 
+goose
+government
+governor
+grade
+grain
+grandfather
+grandmother
+grape
+grass
+grip
+ground
+group
+growth
+guide
+guitar
+gun
+hair
+haircut
+hall
+hammer
+hand
+hands 
+harbor
+harmony
+hat
+hate
+head
+health
+hearing
+heart
+heat
+help
+hen
+hill 
+history
+hobbies
+hole
+holiday
+home 
+honey
+hook
+hope
+horn
+horse
+horses 
+hose
+hospital
+hot
+hour
+house
+houses 
+humor
+hydrant
+ice
+icicle
+idea
+impulse
+income
+increase
+industry
+ink
+insect
+instrument
+insurance
+interest
+invention
+iron
+island
+jail
+jam
+jar
+jeans
+jelly
+jellyfish
+jewel
+join
+joke
+journey
+judge
+juice
+jump
+kettle
+key
+kick
+kiss
+kite
+kitten
+kittens 
+kitty 
+knee
+knife
+knot
+knowledge
+laborer
+lace
+ladybug
+lake
+lamp
+land
+language
+laugh
+lawyer
+lead
+leaf
+learning
+leather
+leg 
+legs
+letter
+letters 
+lettuce
+level
+library
+lift
+light
+limit
+line
+linen
+lip
+liquid
+list
+lizards 
+loaf
+lock
+locket
+look
+loss
+love
+low
+lumber
+lunch
+lunchroom
+machine
+magic
+maid
+mailbox
+man
+manager
+map
+marble
+mark
+market
+mask
+mass
+match
+meal
+measure
+meat
+meeting
+memory
+men
+metal
+mice 
+middle
+milk
+mind
+mine
+minister
+mint
+minute
+mist
+mitten
+mom
+money
+monkey
+month
+moon
+morning
+mother
+motion
+mountain
+mouth
+move
+muscle
+music
+nail
+name
+nation
+neck
+need
+needle
+nerve
+nest 
+net
+news
+night
+noise
+north
+nose
+note
+notebook
+number
+nut
+oatmeal
+observation
+ocean
+offer
+office
+oil
+operation
+opinion
+orange
+oranges 
+order
+organization
+ornament
+oven
+owl
+owner
+page
+pail
+pain
+paint
+pan
+pancake
+paper
+parcel
+parent
+park
+part
+partner
+party
+passenger
+paste
+patch
+payment
+peace
+pear
+pen
+pencil
+person
+pest
+pet
+pets 
+pickle
+picture
+pie
+pies 
+pig
+pigs 
+pin
+pipe
+pizzas 
+place
+plane
+planes 
+plant
+plantation
+plants 
+plastic
+plate
+play
+playground
+pleasure
+plot
+plough
+pocket
+point
+poison
+police
+polish
+pollution
+popcorn
+porter
+position
+pot
+potato
+powder
+power
+price
+print
+prison
+process
+produce
+profit
+property
+prose
+protest
+pull
+pump
+punishment
+purpose
+push
+quarter
+quartz
+queen
+question
+quicksand
+quiet
+quill
+quilt
+quince
+quiver
+rabbit 
+rabbits 
+rail
+railway
+rain
+rainstorm
+rake
+range
+rat
+rate
+ray
+reaction
+reading
+reason
+receipt
+recess
+record
+regret
+relation
+religion
+representative
+request
+respect
+rest
+reward
+rhythm
+rice
+riddle
+rifle
+ring
+rings 
+river
+road
+robin 
+rock
+rod
+roll
+roof
+room
+root
+rose
+route
+rub
+rule
+run
+sack
+sail
+salt
+sand
+scale
+scarecrow
+scarf
+scene
+scent
+school
+science
+scissors
+screw
+sea
+seashore
+seat
+secretary
+seed
+selection
+self
+sense
+servant
+shade
+shake
+shame
+shape
+sheep
+sheet
+shelf
+ship
+shirt
+shock
+shoe
+shoes 
+shop
+show
+side
+sidewalk
+sign
+silk
+silver
+sink
+sister
+sisters 
+size
+skate
+skin
+skirt
+sky
+slave
+sleep
+sleet
+slip
+slope
+smash
+smell
+smile
+smoke
+snail
+snails 
+snake
+snakes 
+sneeze
+snow
+soap
+society
+sock
+soda
+sofa
+son
+song
+songs 
+sort
+sound
+soup
+space
+spade
+spark
+spiders 
+sponge
+spoon
+spot
+spring
+spy
+square
+squirrel
+stage
+stamp
+star
+start
+statement
+station
+steam
+steel
+stem
+step
+stew
+stick
+sticks 
+stitch
+stocking
+stomach
+stone
+stop
+store
+story
+stove
+stranger
+straw
+stream
+street
+stretch
+string
+structure
+substance
+sugar
+suggestion
+suit
+summer
+sun
+support
+surprise
+sweater
+swim
+swing
+system
+table
+tail
+talk
+tank
+taste
+tax
+teaching
+team
+teeth 
+temper
+tendency
+tent
+territory
+test
+texture
+theory
+thing
+things 
+thought
+thread
+thrill
+throat
+throne
+thumb
+thunder
+ticket
+tiger
+time
+tin
+title
+toad
+toe
+toes
+tomatoes 
+tongue
+tooth
+toothbrush
+toothpaste
+top 
+touch
+town
+toy 
+toys 
+trade
+trail
+train
+trains 
+tramp
+transport
+tray
+treatment
+tree
+trees 
+trick
+trip
+trouble
+trousers
+truck
+trucks 
+tub
+turkey
+turn
+twig
+twist
+umbrella
+uncle
+underwear
+unit
+use
+vacation
+value
+van
+vase
+vegetable
+veil
+vein
+verse
+vessel
+vest
+view
+visitor
+voice
+volcano
+volleyball
+voyage
+walk
+wall
+war
+wash
+waste
+watch
+water
+wave
+waves 
+wax
+way
+wealth
+weather
+week
+weight
+wheel
+whip
+whistle
+wilderness
+wind 
+window 
+wine
+wing
+winter
+wire
+wish
+woman
+women
+wood
+wool
+word
+work
+worm
+wound
+wren
+wrench
+wrist
+writer
+writing
+yak
+yam
+yard
+yarn
+year
+yoke
+zebra 
+zephyr
+zinc
+zipper
+zoo
+google
+mr.sub
+qtip
+pop-tarts
+tootsie_roll
+pampers
+rubbermaid
+becel
+post-it
+BMW
+wonka
+facebook
+visa
+zellers
+calvin_klein
+canadian_broadcasting_corporation
+starter_clothing_line
+oralb
+Apple_Inc.
+Costco
+oreo
+Roots_Canada
+Acer_Inc.
+The_Simpsons
+Air_Miles
+Boston_Pizza
+Target_Corporation
+Red_Lobster
+Mott%27s
+Canadian_Football_League
+Caterpillar_Inc.
+Wikipedia
+Arm_%26_hammer
+Johnson_%26_Johnson
+EA
+Motorola
+Subway_(restaurant)
+Tetley
+Volkswagen
+Lays
+Intel
+General_Electric
+Lipton
+Guitar_Hero
+Kellogg%27s
+Levi%27s
+OFF!
+Dubble_Bubble
+Trans-Canada_Highway
+Crest_(toothpaste)
+McDonald%27s
+Maxell
+NASCAR
+Loonie
+PlayStation
+PetroCanada
+Amazon.com
+Waste_Management,_Inc
+H._J._Heinz_Company
+Duracell
+Coleman_Company
+Husky_Energy
+Bick%27s_Pickle
+Ibm
+Purolator_Inc.
+Linux
+CP_Rail
+Nintendo
+Grand_Theft_Auto_IV
+Hello_Kitty
+Delmonte
+Quaker_Oats_Company
+Nesquik_(cereal)
+Vancouver_2010
+Paramount_Pictures
+Gatorade
+Hallmark_Cards
+Lego
+EB_Games
+Yahoo!
+Kraft
+Pepsi
+Canadian_Tire
+Old_Dutch_Foods
+The_Sims
+Under_Armour
+Bank_of_Montreal
+EBay
+Toyota
+Irish_Spring
+Telus
+Government_of_Canada
+Dairy_Queen
+Pillsbury_Company
+Ziploc
+Monopoly_(game)
+Ask.com
+Canon_(company)
+John_Deere
+Tim_Hortons
+Dell
+Canada_Post
+Michaels
+Harley-Davidson
+Toys_"R"_Us
+Bbc
+Adidas
+Puma_SE
+Hewlett-Packard
+Sharp_Corporation
+Panasonic
+Yellow_pages
+Mr._Clean
+Kodak
+Pizza_Hut
+Popsicle_(brand)
+McCain_Foods_Limited
+Chapters
+Indigo_Books_and_Music
+United_Nations
+Jelly_Belly
+Sharpie_(marker)
+Chiclets
+Recycle
+Dr._Scholl%27s
+Linksys
+Canadian_National_Railway
+Family_Guy
+Flickr
+A%26W_Restaurants
+Kool-Aid
+Logitech
+Sony
+Globe_and_Mail
+Juicy_Fruit
+Band-Aid
+Green_Giant
+Shell_Oil_Company
+7Up
+Superman
+British_Royal_Family
+Blue_Jays
+YouTube
+DC_Shoes
+Firefox
+The_Hershey_Company
+Microsoft
+LG_Corp
+Tide_(brand)
+Bic_pen
+Pringles
+CNN
+Aarhus
+Afghanistan
+Africa
+Alaska
+Albania
+Aleppo
+Algeria
+Alps
+Amalfi coast
+Amazon
+American Samoa
+Amsterdam
+Andalucia
+Andorra
+Angkor Wat
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Antwerp
+Arctic
+Argentina
+Arles
+Armenia
+Aruba
+Asia
+Athens
+Auckland
+Austin
+Australasia
+Australia
+Australian Capital Territory ACT (travel)
+Austria
+Avignon
+Azerbaijan
+Azores
+Baden-Baden
+Bahamas
+Bahrain
+Balearic Islands
+Bali
+Baltimore
+Bangkok
+Bangladesh
+Barbados
+Barcelona
+Barnsley
+Basque country
+Bath
+Beijing
+Beirut
+Belarus
+Belfast
+Belgium
+Belize
+Benin
+Bergen
+Berkshire
+Berlin
+Bermuda
+Bhutan
+Bilbao
+Birmingham
+Bloemfontein
+Bolivia
+Bologna
+Bordeaux
+Borneo
+Bosnia-Herzegovina
+Boston
+Botswana
+Bournemouth
+Bradford
+Bratislava
+Brazil
+Brighton
+Brisbane
+Bristol
+Brittany
+Bruges
+Brunei
+Brussels
+Bucharest
+Budapest
+Buenos Aires
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cairo
+Calais
+California
+Cambodia
+Cambridge
+Cameroon
+Canada
+Canary Islands
+Canberra travel
+Canterbury
+Cape Cod
+Cape Town
+Cape Verde
+Caracas
+Carcassonne
+Cardiff
+Caribbean
+Casablanca
+Catalonia
+Cayman Islands
+Central African Republic
+Chad
+Chamonix
+Channel Islands
+Chechnya
+Chester
+Chicago
+Chile
+China
+Chios
+Christmas Island
+Cocos Island
+Cologne
+Colombia
+Colorado
+Comoros
+Congo Brazzaville
+Cook Islands
+Copenhagen
+Corfu
+Cork
+Cornwall
+Corsica
+Costa Rica
+Cotswolds
+Crete
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Dakar
+Damascus
+Darwin
+Delhi
+Democratic Republic of Congo
+Denmark
+Denver
+Derbyshire
+Detroit
+Devon
+Djibouti
+Dolomites
+Dominica
+Dominican Republic
+Dordogne
+Dorset
+Dresden
+Dubai
+Dublin
+Dubrovnik
+Durban
+Ecuador
+Edinburgh
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Essex
+Estonia
+Ethiopia
+Europe
+European Union
+Exeter
+Extreme cities
+Falkland Islands
+Faroe Islands
+Fez
+Fiji
+Finland
+Florence
+Florida
+France
+Frankfurt
+French Guiana
+Gabon
+Galway
+Galápagos Islands
+Genoa
+Georgia
+Germany
+Gerona
+Ghana
+Ghent
+Gibraltar
+Glasgow
+Glastonbury
+Gloucestershire
+Goa
+Gothenburg
+Granada
+Graz
+Greece
+Greek Islands
+Green space
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+The Gambia
+Haiti
+Hamburg
+Hastings
+Hawaii
+Helsinki
+Hobart
+Honduras
+Hong Kong
+Hungary
+The Hague
+Ibiza
+Iceland
+India
+Indonesia
+Inverness
+Iran
+Iraq
+Ireland
+Isle of Skye
+Isle of Wight
+Israel
+Istanbul
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jerusalem
+Johannesburg
+Jordan
+Jura
+Karachi
+Kashmir
+Kazakhstan
+Kent
+Kentucky
+Kenya
+Kerala
+Kiev
+Kiribati
+Kolkata
+Kosovo
+Krakow
+Kuala Lumpur
+Kuwait
+Kyoto
+Kyrgyzstan
+La Paz
+La Plagne
+Ladakh
+Lahore
+Lake District
+Lancashire
+Laos
+Lapland
+Las Vegas
+Latvia
+Lausanne
+Lebanon
+Leeds
+Leicester
+Lesotho
+Libya
+Liechtenstein
+Lille
+Lima
+Limerick
+Lincolnshire
+Lisbon
+Lithuania
+Liverpool
+Liège
+Ljubljana
+London
+Los Angeles
+Louisville
+Luxembourg
+Lyon
+Macau
+Macedonia
+Madagascar
+Madrid
+Malawi
+Malaysia
+Maldives
+Mali
+Mallorca
+Malmo
+Malta
+Manchester
+Manila
+Mantua
+Marrakech
+Marseille
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mecca
+Melbourne
+Memphis
+Mexico
+Mexico City
+Miami
+Micronesia
+Middle East
+Milan
+Moldova
+Monaco
+Mongolia
+Montana
+Montenegro
+Montreal
+Montserrat
+Morocco
+Moscow
+Mozambique
+Mumbai
+Munich
+Murcia
+Namibia
+Naples
+Nashville
+Nauru
+Nelspruit
+Nepal
+Netherlands
+Nevada
+New Caledonia
+New England
+New Forest
+New Orleans
+New South Wales
+New York
+New Zealand
+Newcastle
+Nicaragua
+Nice
+Niger
+Nigeria
+Niue
+Norfolk
+Norfolk Island
+Normandy
+North Korea
+North and Central America
+Northern Ireland
+Northern Territory
+Norway
+Nottingham
+Nîmes
+Oman
+Oporto
+Osaka
+Oslo
+Oxford
+Pakistan
+Palau
+Palestine
+Palma
+Panama
+Papua New Guinea
+Paraguay
+Paris
+Patagonia
+Peak District
+Perth
+Perth travel
+Peru
+Philadelphia
+Philippines
+Phnom Penh
+Pisa
+Pitcairn
+Pnomh Penh
+Poland
+Polokwane
+Polynesia
+Port Elizabeth
+Portland USA
+Portsmouth
+Portugal
+Poznan
+Prague
+Pretoria
+Provence
+Puerto Rico
+Pyrenees
+Qatar
+Queensland
+Rajasthan
+Rangoon
+Reading
+Red Sea
+Reykjavik
+Riga
+Rio de Janeiro
+Romania
+Rome
+Rotterdam
+Russia
+Rustenburg
+Rwanda
+Réunion
+Saint Kitts and Nevis
+Saint Vincent and the Grenadines
+Salisbury
+Salonika
+Salzburg
+Samoa
+San Francisco
+San Marino
+San Sebastián
+Santiago de Compostela
+Sao Paulo
+Sardinia
+Saudi Arabia
+Scilly
+Scotland
+Seattle
+Senegal
+Seoul
+Serbia
+Serbia and Montenegro
+Seville
+Seychelles
+Shanghai
+Sicily
+Sierra Leone
+Singapore
+Skegness
+Slovakia
+Slovenia
+Snowdonia
+Sofia
+Solomon Islands
+Somalia
+South Africa
+South America
+South Australia
+South Korea
+Spain
+Sri Lanka
+St Etienne
+St Helena
+St Lucia
+St Petersburg
+St Tropez
+Staffordshire
+Stockholm
+Strasbourg
+Stratford-upon-Avon
+Sudan
+Suffolk
+Suriname
+Swaziland
+Sweden
+Switzerland
+Sydney
+Syria
+Taiwan
+Tajikistan
+Tallinn
+Tangier
+Tanzania
+Tasmania
+Tbilisi
+Tel Aviv
+Texas
+Thailand
+Tibet
+Timor-Leste
+Togo
+Tokyo
+Tonga
+Toronto
+Torquay
+Toulouse
+Trinidad and Tobago
+Tromso
+Tunis
+Tunisia
+Tupelo
+Turin
+Turkey
+Turkmenistan
+Tuscany
+Tuvalu
+US national and state parks
+Uganda
+Ukraine
+Umbria
+United Arab Emirates
+United Kingdom
+United States
+Urban decay
+Uruguay
+Utah
+Uzbekistan
+British Virgin Islands
+US Virgin Islands
+Val d'Isère
+Valencia
+Vancouver
+Vanuatu
+Vatican City State
+Venezuela
+Venice
+Verona
+Vienna
+Vietnam
+Vilnius
+Volgograd
+Wales
+Warsaw
+Washington DC
+Wellington
+Western Australia
+Western Sahara
+Worcester
+Wroclaw
+Yekaterinburg
+Yemen
+Yorkshire
+Zagreb
+Zaire
+Zambia
+Zimbabwe
+Zurich
+Abyssinian
+Adelie Penguin
+Affenpinscher
+Afghan Hound
+African Bush Elephant
+African Civet
+African Clawed Frog
+African Forest Elephant
+African Palm Civet
+African Penguin
+African Tree Toad
+African Wild Dog
+Ainu Dog
+Airedale Terrier
+Akbash
+Akita
+Alaskan Malamute
+Albatross
+Aldabra Giant Tortoise
+Alligator
+Alpine Dachsbracke
+American Bulldog
+American Cocker Spaniel
+American Coonhound
+American Eskimo Dog
+American Foxhound
+American Pit Bull Terrier
+American Staffordshire Terrier
+American Water Spaniel
+Anatolian Shepherd Dog
+Angelfish
+Ant
+Anteater
+Antelope
+Appenzeller Dog
+Arctic Fox
+Arctic Hare
+Arctic Wolf
+Armadillo
+Asian Elephant
+Asian Giant Hornet
+Asian Palm Civet
+Asiatic Black Bear
+Australian Cattle Dog
+Australian Kelpie Dog
+Australian Mist
+Australian Shepherd
+Australian Terrier
+Avocet
+Axolotl
+Aye Aye
+Baboon
+Bactrian Camel
+Badger
+Balinese
+Banded Palm Civet
+Bandicoot
+Barb
+Barn Owl
+Barnacle
+Barracuda
+Basenji Dog
+Basking Shark
+Basset Hound
+Bat
+Bavarian Mountain Hound
+Beagle
+Bear
+Bearded Collie
+Bearded Dragon
+Beaver
+Bedlington Terrier
+Beetle
+Bengal Tiger
+Bernese Mountain Dog
+Bichon Frise
+Binturong
+Bird
+Birds Of Paradise
+Birman
+Bison
+Black Bear
+Black Rhinoceros
+Black Russian Terrier
+Black Widow Spider
+Bloodhound
+Blue Lacy Dog
+Blue Whale
+Bluetick Coonhound
+Bobcat
+Bolognese Dog
+Bombay
+Bongo
+Bonobo
+Booby
+Border Collie
+Border Terrier
+Bornean Orang-utan
+Borneo Elephant
+Boston Terrier
+Bottle Nosed Dolphin
+Boxer Dog
+Boykin Spaniel
+Brazilian Terrier
+Brown Bear
+Budgerigar
+Buffalo
+Bull Mastiff
+Bull Shark
+Bull Terrier
+Bulldog
+Bullfrog
+Bumble Bee
+Burmese
+Burrowing Frog
+Butterfly
+Butterfly Fish
+Caiman
+Caiman Lizard
+Cairn Terrier
+Camel
+Canaan Dog
+Capybara
+Caracal
+Carolina Dog
+Cassowary
+Cat
+Caterpillar
+Catfish
+Cavalier King Charles Spaniel
+Centipede
+Cesky Fousek
+Chameleon
+Chamois
+Cheetah
+Chesapeake Bay Retriever
+Chicken
+Chihuahua
+Chimpanzee
+Chinchilla
+Chinese Crested Dog
+Chinook
+Chinstrap Penguin
+Chipmunk
+Chow Chow
+Cichlid
+Clouded Leopard
+Clown Fish
+Clumber Spaniel
+Coati
+Cockroach
+Collared Peccary
+Collie
+Common Buzzard
+Common Frog
+Common Loon
+Common Toad
+Coral
+Cottontop Tamarin
+Cougar
+Cow
+Coyote
+Crab
+Crab-Eating Macaque
+Crane
+Crested Penguin
+Crocodile
+Cross River Gorilla
+Curly Coated Retriever
+Cuscus
+Cuttlefish
+Dachshund
+Dalmatian
+Darwin's Frog
+Deer
+Desert Tortoise
+Deutsche Bracke
+Dhole
+Dingo
+Discus
+Doberman Pinscher
+Dodo
+Dog
+Dogo Argentino
+Dogue De Bordeaux
+Dolphin
+Donkey
+Dormouse
+Dragonfly
+Drever
+Duck
+Dugong
+Dunker
+Dusky Dolphin
+Dwarf Crocodile
+Eagle
+Earwig
+Eastern Gorilla
+Eastern Lowland Gorilla
+Echidna
+Edible Frog
+Egyptian Mau
+Electric Eel
+Elephant
+Elephant Seal
+Elephant Shrew
+Emperor Penguin
+Emperor Tamarin
+Emu
+English Cocker Spaniel
+English Shepherd
+English Springer Spaniel
+Entlebucher Mountain Dog
+Epagneul Pont Audemer
+Eskimo Dog
+Estrela Mountain Dog
+Falcon
+Fennec Fox
+Ferret
+Field Spaniel
+Fin Whale
+Finnish Spitz
+Fire-Bellied Toad
+Fish
+Fishing Cat
+Flamingo
+Flat Coat Retriever
+Flounder
+Fly
+Flying Squirrel
+Fossa
+Fox
+Fox Terrier
+French Bulldog
+Frigatebird
+Frilled Lizard
+Frog
+Fur Seal
+Galapagos Penguin
+Galapagos Tortoise
+Gar
+Gecko
+Gentoo Penguin
+Geoffroys Tamarin
+Gerbil
+German Pinscher
+German Shepherd
+Gharial
+Giant African Land Snail
+Giant Clam
+Giant Panda Bear
+Giant Schnauzer
+Gibbon
+Gila Monster
+Giraffe
+Glass Lizard
+Glow Worm
+Goat
+Golden Lion Tamarin
+Golden Oriole
+Golden Retriever
+Goose
+Gopher
+Gorilla
+Grasshopper
+Great Dane
+Great White Shark
+Greater Swiss Mountain Dog
+Green Bee-Eater
+Greenland Dog
+Grey Mouse Lemur
+Grey Reef Shark
+Grey Seal
+Greyhound
+Grizzly Bear
+Grouse
+Guinea Fowl
+Guinea Pig
+Guppy
+Hammerhead Shark
+Hamster
+Hare
+Harrier
+Havanese
+Hedgehog
+Hercules Beetle
+Hermit Crab
+Heron
+Highland Cattle
+Himalayan
+Hippopotamus
+Honey Bee
+Horn Shark
+Horned Frog
+Horse
+Horseshoe Crab
+Howler Monkey
+Human
+Humboldt Penguin
+Hummingbird
+Humpback Whale
+Hyena
+Ibis
+Ibizan Hound
+Iguana
+Impala
+Indian Elephant
+Indian Palm Squirrel
+Indian Rhinoceros
+Indian Star Tortoise
+Indochinese Tiger
+Indri
+Insect
+Irish Setter
+Irish WolfHound
+Jack Russel
+Jackal
+Jaguar
+Japanese Chin
+Japanese Macaque
+Javan Rhinoceros
+Javanese
+Jellyfish
+Kakapo
+Kangaroo
+Keel Billed Toucan
+Killer Whale
+King Crab
+King Penguin
+Kingfisher
+Kiwi
+Koala
+Komodo Dragon
+Kudu
+Labradoodle
+Labrador Retriever
+Ladybird
+Leaf-Tailed Gecko
+Lemming
+Lemur
+Leopard
+Leopard Cat
+Leopard Seal
+Leopard Tortoise
+Liger
+Lion
+Lionfish
+Little Penguin
+Lizard
+Llama
+Lobster
+Long-Eared Owl
+Lynx
+Macaroni Penguin
+Macaw
+Magellanic Penguin
+Magpie
+Maine Coon
+Malayan Civet
+Malayan Tiger
+Maltese
+Manatee
+Mandrill
+Manta Ray
+Marine Toad
+Markhor
+Marsh Frog
+Masked Palm Civet
+Mastiff
+Mayfly
+Meerkat
+Millipede
+Minke Whale
+Mole
+Molly
+Mongoose
+Mongrel
+Monitor Lizard
+Monkey
+Monte Iberia Eleuth
+Moorhen
+Moose
+Moray Eel
+Moth
+Mountain Gorilla
+Mountain Lion
+Mouse
+Mule
+Neanderthal
+Neapolitan Mastiff
+Newfoundland
+Newt
+Nightingale
+Norfolk Terrier
+Norwegian Forest
+Numbat
+Nurse Shark
+Ocelot
+Octopus
+Okapi
+Old English Sheepdog
+Olm
+Opossum
+Orang-utan
+Ostrich
+Otter
+Oyster
+Pademelon
+Panther
+Parrot
+Patas Monkey
+Peacock
+Pekingese
+Pelican
+Penguin
+Persian
+Pheasant
+Pied Tamarin
+Pig
+Pika
+Pike
+Pink Fairy Armadillo
+Piranha
+Platypus
+Pointer
+Poison Dart Frog
+Polar Bear
+Pond Skater
+Poodle
+Pool Frog
+Porcupine
+Possum
+Prawn
+Proboscis Monkey
+Puffer Fish
+Puffin
+Pug
+Puma
+Purple Emperor
+Puss Moth
+Pygmy Hippopotamus
+Pygmy Marmoset
+Quail
+Quetzal
+Quokka
+Quoll
+Rabbit
+Raccoon
+Raccoon Dog
+Radiated Tortoise
+Ragdoll
+Rat
+Rattlesnake
+Red Knee Tarantula
+Red Panda
+Red Wolf
+Red-handed Tamarin
+Reindeer
+Rhinoceros
+River Dolphin
+River Turtle
+Robin
+Rock Hyrax
+Rockhopper Penguin
+Roseate Spoonbill
+Rottweiler
+Royal Penguin
+Russian Blue
+Sabre-Toothed Tiger
+Saint Bernard
+Salamander
+Sand Lizard
+Saola
+Scorpion
+Scorpion Fish
+Sea Dragon
+Sea Lion
+Sea Otter
+Sea Slug
+Sea Squirt
+Sea Turtle
+Sea Urchin
+Seahorse
+Seal
+Serval
+Sheep
+Shih Tzu
+Shrimp
+Siamese
+Siamese Fighting Fish
+Siberian
+Siberian Husky
+Siberian Tiger
+Silver Dollar
+Skunk
+Sloth
+Slow Worm
+Snail
+Snake
+Snapping Turtle
+Snowshoe
+Snowy Owl
+Somali
+South China Tiger
+Spadefoot Toad
+Sparrow
+Spectacled Bear
+Sperm Whale
+Spider Monkey
+Spiny Dogfish
+Sponge
+Squid
+Squirrel
+Squirrel Monkey
+Sri Lankan Elephant
+Staffordshire Bull Terrier
+Stag Beetle
+Starfish
+Stellers Sea Cow
+Stick Insect
+Stingray
+Stoat
+Striped Rocket Frog
+Sumatran Elephant
+Sumatran Orang-utan
+Sumatran Rhinoceros
+Sumatran Tiger
+Sun Bear
+Swan
+Tang
+Tapir
+Tarsier
+Tasmanian Devil
+Tawny Owl
+Termite
+Tetra
+Thorny Devil
+Tibetan Mastiff
+Tiffany
+Tiger
+Tiger Salamander
+Tiger Shark
+Tortoise
+Toucan
+Tree Frog
+Tropicbird
+Tuatara
+Turkey
+Turkish Angora
+Uakari
+Uguisu
+Umbrellabird
+Vampire Bat
+Vervet Monkey
+Vulture
+Wallaby
+Walrus
+Warthog
+Wasp
+Water Buffalo
+Water Dragon
+Water Vole
+Weasel
+Welsh Corgi
+West Highland Terrier
+Western Gorilla
+Western Lowland Gorilla
+Whale Shark
+Whippet
+White Faced Capuchin
+White Rhinoceros
+White Tiger
+Wild Boar
+Wildebeest
+Wolf
+Wolverine
+Wombat
+Woodlouse
+Woodpecker
+Woolly Mammoth
+Woolly Monkey
+Wrasse
+X-Ray Tetra
+Yak
+Yellow-Eyed Penguin
+Yorkshire Terrier
+Zebra
+Zebra Shark
+Zebu
+Zonkey
+Zorse
